@@ -62,9 +62,9 @@ copyright = "©ASSAA {2020}"
 
 [[menu.main]]
   identifier = "post"
-  name = "post"
-  title = "Post"
-  url = "/post"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
   
 ##Site Features
 highlight = true
