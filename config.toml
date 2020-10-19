@@ -8,7 +8,7 @@ baseURL = "https://assaa.netlify.app/"
 copyright = "©ASSAA {2020}"
 
 # Add your Disqus shortname here.
-# disqusShortname = ""
+  disqusShortname = "https-assaa-netlify-app-1"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "" 
