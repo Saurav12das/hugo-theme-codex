@@ -1,0 +1,73 @@
+---
+title: Postdoctoral researcher advertisement
+author: ASSAA
+date: '2020-10-19'
+slug: postdoctoral-researcher-advertisement
+categories:
+  - postdoc
+tags:
+  - job
+  - postdoc
+description: ''
+keywords: []
+draft: yes
+---
+Postdoctoral Research Associate
+University of Wyoming, Microbial Ecology Collaborative Project
+
+Number of position : 12
+
+We are seeking twelve postdoctoral researchers to join our interdisciplinary data science team, spanning multiple research areas in ecology and evolutionary biology. The postdoctoral researchers will join a collaboration among eight faculty at the University of Wyoming, University of Montana, and University of Nevada-Reno, including Drs. Alex Buerkle, Christopher Weiss-Lehman, Lauren Shoemaker, Sarah Collins, and Daniel Laughlin (UW), Joanna Blaszczak and Matt Forister (UNR), and Bob Hall (UM).
+
+Dramatic increases in the scale and availability of data are profoundly reshaping all domains in the life sciences. Data acquisition and availability from DNA sequencers, environmental sensors, parallel global studies, and imagery are outpacing our capacity for analysis, including the development of models that represent our knowledge of biological processes. Research in our consortium will develop and compete computational, statistical, and machine learning methods for multi-dimensional data to create predictive and explanatory models for the life sciences. The project focuses on three research areas: (1) connecting genome to phenome (particularly in the context of evolutionary biology), (2) mechanistic modeling of species interactions and community diversity, and (3) time series of material and energy flux in aquatic ecosystems. 
+
+The positions are 100% research with flexible start dates; however, preference will be given to candidates who will be able to join the consortium immediately.  The positions are for two years, with the possibility for extending the appointment, contingent upon performance.  
+
+The postdoctoral researchers will be primarily based in one or a few labs but will benefit from the opportunities to collaborate broadly. The positions allow for multiple professional development opportunities, including training in highly interdisciplinary science, collaborations across institutions, regular meetings with the entire consortium, mentorship toward academic and non-academic career development, and interactions with graduate and undergraduate students.
+
+Successful applicants are not expected to have expertise in all facets of the project, but rather may be experts in a given area of modeling or domain of the life sciences. The postdoctoral researchers will primarily analyze existing and simulated data, and will have additional, complementary opportunities for laboratory or field research. We recognize that the best science can originate from diverse collaborations with people from varied backgrounds, and we especially encourage applicants from underrepresented groups to apply. The positions are supported by a 4-year, $6 million NSF EPSCoR RII Track-2 grant in response to our proposal entitled Creating Explanatory, Process-Based Models to Harness the Data Revolution in the Life Sciences.  
+
+**QUALIFICATIONS**
+
+All twelve positions share the same qualifications. Seven positions are associated with the University of Wyoming, three positions with the University of Nevada-Reno, and two positions with the University of Montana.  
+
+Required qualifications
+
+completion by position start date of all requirements for a PhD in ecology, evolutionary biology, environmental science, statistics, computer science, mathematics, complex systems science, or a related field. 
+
+Preferred qualifications
+
+In the cover letter, applicants should state clearly and illustrate how their experience and interests match the following preferred qualifications.
+
+record of publishing in peer-reviewed literature
+
+excellent verbal and written communication skills
+
+experience in at least one of the following research areas: (a) connecting genome to phenome, or other aspects of evolutionary genetics, (b) mechanistic modeling of species interactions, population dynamics, and community diversity, or (c) examining material and energy flux in aquatic ecosystems
+
+has a keen interest in developing skills in mathematical or statistical modeling to extend strong conceptual thinking and research in life sciences
+
+previous interdisciplinary and collaborative work, in addition to project leadership 
+
+interest in working with a diverse team across disciplinary boundaries
+
+**TO APPLY**
+
+Applicants may and are encouraged to apply for multiple positions in the consortium. We encourage candidates to contact [potential advisors](https://microcollaborative.atlassian.net/wiki/spaces/MP/pages/833814685/Participant+Directory) to discuss interests in advance of applying. 
+
+To apply, submit a cover letter stating your interest in the position and previous experience as it relates to the position, including each of the preferred qualifications. Also, provide a CV, links to 1–2 recent first-authored publications, and names and contact information for three professional references. Review of applications will begin at slightly different times for the different institutions (as early as late October) and will continue until the positions are filled.
+
+**University of Wyoming**
+
+[Application link](https://uwyo.taleo.net/careersection/00_ex/jobdetail.ftl?job=20003337) for six open positions
+
+University of Nevada–Reno
+
+Application link for three open positions will be available soon.  Meanwhile, applicants interested in positions at UNR should be please contact Joanna Blaszczak (jblaszczak@unr.edu) and Matt Forister (mforister@unr.edu) via email.
+
+University of Montana, Flathead Lake Bio Station
+Application link for two positions
+
+ADDITIONAL INFORMATION
+Project
+We initiated this consortium to address cross-cutting challenges in the analysis and representation of knowledge in the life sciences. In particular, we will learn about, develop, and share innovative approaches to obtain highly predictive and explanatory models.  We will use our broad experience in ecology and evolution, and in modeling, to advance process-based understanding in the life sciences. The consortium will meet regularly through video conferencing across institutions and each year will gather in an inspiring location to share what we have learned and plan future work.
