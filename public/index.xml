@@ -2,22 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assamese Students &amp; Scholars Association of America</title>
-    <link>https://assaa.netlify.app/</link>
+    <link>/</link>
     <description>Recent content on Assamese Students &amp; Scholars Association of America</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©ASSAA {2020}</copyright>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://assaa.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD and Postdoc opportunities</title>
+      <link>/post/phd-and-postdoc-opportunities/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/phd-and-postdoc-opportunities/</guid>
+      <description>CORTÉS LAB is hiring PhD and Postdocs
+To know more about the recruitment.Click the link: https://cortesmalarialab.wordpress.com/2020/10/12/we-are-hiring/</description>
+    </item>
     
     <item>
       <title>Postdoctoral position in quantitative/statistical/population genetics, bioinformatics</title>
-      <link>https://assaa.netlify.app/post/2020-10-19-postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/</link>
+      <link>/post/2020-10-19-postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://assaa.netlify.app/post/2020-10-19-postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/</guid>
+      <guid>/post/2020-10-19-postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/</guid>
       <description>Working Title
 Post-Doctoral Research AssociateDepartment Agronomy &amp;amp; Horticulture-0827University of Nebraska - Lincoln, Nebraska, USA
 Requisition Number F_190182
@@ -25,6 +31,17 @@ Posting Open Date 09/30/2019Application Review Date: (To ensure consideration, 
 Posting Close Date
 Open Until Filled Yes
 Description of WorkThe Post-Doctoral Research Associate will contribute to the integrated research land-grant mission of the home unit and the IANR, as an effective scholar and citizen, including supporting student recruitment and IANR science literacy.</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral researcher advertisement</title>
+      <link>/post/2020-10-19-postdoctoral-researcher-advertisement/postdoctoral-researcher-advertisement/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-19-postdoctoral-researcher-advertisement/postdoctoral-researcher-advertisement/</guid>
+      <description>Postdoctoral Research AssociateUniversity of Wyoming, Microbial Ecology Collaborative Project
+Number of position : 12
+We are seeking twelve postdoctoral researchers to join our interdisciplinary data science team, spanning multiple research areas in ecology and evolutionary biology. The postdoctoral researchers will join a collaboration among eight faculty at the University of Wyoming, University of Montana, and University of Nevada-Reno, including Drs. Alex Buerkle, Christopher Weiss-Lehman, Lauren Shoemaker, Sarah Collins, and Daniel Laughlin (UW), Joanna Blaszczak and Matt Forister (UNR), and Bob Hall (UM).</description>
     </item>
     
   </channel>

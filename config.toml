@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Assamese Students & Scholars Association of America"
 languageCode = "en-us"
-baseURL = "https://assaa.netlify.app/"
+baseURL = "https://assam.netlify.app/"
 copyright = "©ASSAA {2020}"
 
 # Add your Disqus shortname here.

@@ -1,0 +1,21 @@
+---
+title: PhD and Postdoc opportunities
+author: ''
+date: '2020-10-19'
+slug: phd-and-postdoc-opportunities
+categories:
+  - postdoc
+  - PhD
+tags:
+  - job
+  - postdoc
+  - PhD
+description: ''
+keywords: []
+draft: False
+---
+
+[CORTÉS LAB](https://cortesmalarialab.wordpress.com/) is hiring PhD and Postdocs
+
+To know more about the recruitment. 
+Click the link: https://cortesmalarialab.wordpress.com/2020/10/12/we-are-hiring/ 

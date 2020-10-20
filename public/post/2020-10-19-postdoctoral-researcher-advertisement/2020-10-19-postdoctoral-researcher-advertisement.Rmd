@@ -10,7 +10,7 @@ tags:
   - postdoc
 description: ''
 keywords: []
-draft: yes
+draft: false
 ---
 Postdoctoral Research Associate
 University of Wyoming, Microbial Ecology Collaborative Project
