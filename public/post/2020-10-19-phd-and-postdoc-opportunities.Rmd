@@ -17,5 +17,11 @@ draft: False
 
 [CORTÉS LAB](https://cortesmalarialab.wordpress.com/) is hiring PhD and Postdocs
 
+PhD: "Transcriptional regulation of adaptation and developmental decisions in malaria parasites: from epigenetic variation to directed transcriptional responses”,
+
+Postdoc:“Transcriptional regulation of adaptation and
+developmental decisions in malaria parasites: from epigenetic variation to directed transcriptional responses”
+
+
 To know more about the recruitment. 
 Click the link: https://cortesmalarialab.wordpress.com/2020/10/12/we-are-hiring/ 
