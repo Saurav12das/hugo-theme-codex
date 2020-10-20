@@ -1,5 +1,5 @@
 ---
-heading: "Hi, this is Assamese Students & Scholars Association of America (ASSAA)"
-subheading: "This is a website for the students and research scholars who are actively looking for opportunities in their career."
+heading: "Hi, this is Saurav"
+subheading: "I have created this website for the students and research scholars who are actively looking for opportunities in their career."
 handle: "https://twitter.com/Moutain_Soul"
 ---
