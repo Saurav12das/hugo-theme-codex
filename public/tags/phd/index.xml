@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PhD on Saurav</title>
-    <link>https://assam.netlify.app/tags/phd/</link>
+    <link>/tags/phd/</link>
     <description>Recent content in PhD on Saurav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©ASSAA {2020}</copyright>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://assam.netlify.app/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/phd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD and Postdoc opportunities</title>
-      <link>https://assam.netlify.app/post/phd-and-postdoc-opportunities/</link>
+      <link>/post/phd-and-postdoc-opportunities/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://assam.netlify.app/post/phd-and-postdoc-opportunities/</guid>
+      <guid>/post/phd-and-postdoc-opportunities/</guid>
       <description>CORTÉS LAB is hiring PhD and Postdocs
 PhD: “Transcriptional regulation of adaptation and developmental decisions in malaria parasites: from epigenetic variation to directed transcriptional responses”,
 Postdoc:“Transcriptional regulation of adaptation anddevelopmental decisions in malaria parasites: from epigenetic variation to directed transcriptional responses”
