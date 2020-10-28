@@ -1,0 +1,34 @@
+---
+title: PhD Position_UK_John_Innes
+author: ''
+date: '2020-10-27'
+slug: []
+categories:
+  - PhD
+tags:
+  - PhD
+description: ''
+keywords: []
+draft: no
+math: no
+toc: no
+---
+
+**Title**: [ARORA PhD - Identifying and exploiting the novel sources of genetic resistance for root diseases of pea](https://biodtp.norwichresearchpark.ac.uk/projects/identifying-and-exploiting-the-novel-sources-of-genetic-resistance-for-root-diseases-of-pea/)
+
+The root rot complex is the most destructive disease of pea and is now endemic across most pea growing areas of UK. It has become a significant constraint to pea production while there is a spike in demand for this crop due to consumers’ increasing preference for plant-based protein.
+
+The complex causes severe root damage affecting the plant’s ability to fix nitrogen and can lead to total crop failure. There are no genetic or chemical solutions available to control the spread of this devastating disease. It has become imperative to identify novel sources of genetic resistance and develop resistant pea varieties to counter the threat of root rots.
+
+The landraces and wild relatives of pea represent a rich source of variation for disease resistance. In this PhD project, the student will explore the variation in a Pisum diversity panel against an array of pathogens associated with root rot diseases. You will implement state-of-the-art enabling technologies, including resistance gene enrichment sequencing coupled to association genetics (AgRenSeq) and genome-wide association mapping using whole genome sequencing data. You will collaborate with NIAB, Cambridge, to culture isolates of root pathogens collected from UK soils and develop high-throughput phenotyping methods to discover and clone resistance genes from pea diversity panels.
+
+This project will facilitate understanding the genetic architecture of root rot complex in pea. Identified resistances will be transferred into elite pea varieties, using marker-assisted selection in collaboration with our industrial partner, van Waveren Saaten GmbH in Germany, where you will have opportunity to undertake a three-month placement.
+
+**Application Closing Date** : November 23, 2020
+
+**Start Date** : 1st October, 2021
+
+**Supervisor** : [Dr. Sanu Arora](https://www.jic.ac.uk/people/sanu-arora/)
+
+---
+
