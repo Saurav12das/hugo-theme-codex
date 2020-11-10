@@ -11,10 +11,9 @@ description: ''
 keywords: []
 draft: no
 math: no
-toc: no
 ---
 
-<h1> Title : Integration of shape and function: identifying the genetic and neural circuitry underlying rapid male genital evolution </h1>
+<h4> Title : Integration of shape and function: identifying the genetic and neural circuitry underlying rapid male genital evolution </h4>
 
 <b>About the Project </b>
 Oxford Brookes University 
@@ -23,26 +22,26 @@ Department of Biomedical and Medical Sciences
 
 3 Year, full-time PhD studentship 
 
-Project title: Integration of shape and function: identifying the genetic and neural circuitry underlying rapid male genital evolution 
-Eligibility: Home UK/EU and International students 
-Closing date: 11 December 2020 
-Start date: September 2021 
+<b>Project title: Integration of shape and function: identifying the genetic and neural circuitry underlying rapid male genital evolution</b>
+<b>Eligibility: Home UK/EU and International students</b> 
+<b>Closing date: 11 December 2020</b>
+<b>Start date: September 2021</b> 
 Bursary p.a.: Bursary equivalent to UKRI national minimum stipend plus fees (2020/21 bursary rate is £15, 285) 
 University fees and bench fees at the UK will be met by the University for the 3 years of the Studentship. 
-Supervisors: Dr. Daniela Nunes (Oxford Brookes University), Carolina Rezaval (University of Birmingham), Casper Breuker (Oxford Brookes University) and Saad Arif (Oxford Brookes University) 
-Fees: Tuition fees up to UK level will be paid by the University. Any EU and international students awarded the studentship would need to cover the difference between international, EU and UK fees. Please note, fees increase by 4% annually. 
+<b>Supervisors: Dr. Daniela Nunes (Oxford Brookes University), Carolina Rezaval (University of Birmingham), Casper Breuker (Oxford Brookes University) and Saad Arif (Oxford Brookes University) 
+Fees: Tuition fees up to UK level will be paid by the University. Any EU and international students awarded the studentship would need to cover the difference between international, EU and UK fees. Please note, fees increase by 4% annually.</b>
 
 
-Project Description: 
+<b>Project Description:</b>
 Background 
 The size and shape of male genitalia are remarkably diverse in animals with internal fertilization and this phenomenon is long thought to be driven by sexual selection. Changes in genital morphology could impact reproductive success by directly changing the function of the evolved organ and/or through behavioural modification of either or both sexes, for example through effects on female choice. However, causal links between morphological and behavioural changes have been difficult to establish because these components have often been addressed separately from a genetic, developmental and neural perspective. 
 
-Aims 
+<b>Aims</b>
 This project aims to determine how genes known to contribute to the divergence in male genitalia between two closely related species, Drosophila simulans and Drosophila mauritiana, affect genital coupling, mating behaviour and reproductive success in these species. To obtain a better understanding of the mechanisms driving behavioural changes we will also conduct genetic screens to identify CNS neurons that are able to modulate the mating choices of both males and females as a response to the changes in the morphology of the male genitalia. 
 
 The results of this project will provide unprecedented insights into the mechanisms through which morphological changes affect behavioural phenotypes and the evolution of reproductive isolation between species and speciation more generally. 
 
-Training 
+<b>Training</b>
 Training will be provided in genomic engineering using CRISPR/Cas9, Molecular biology, Drosophila genetics, Behavioural assays, Bioimaging, Optogenetics, Thermogenetics, Neurogenetics and neural circuit bashing using the state-of-the-art facilities available Oxford Brookes University and at the University of Birmingham. 
 
 
