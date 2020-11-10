@@ -11,7 +11,6 @@ description: ''
 keywords: []
 draft: no
 math: no
-toc: yes
 ---
 
 **Title**: [ARORA PhD - Identifying and exploiting the novel sources of genetic resistance for root diseases of pea](https://biodtp.norwichresearchpark.ac.uk/projects/identifying-and-exploiting-the-novel-sources-of-genetic-resistance-for-root-diseases-of-pea/)
