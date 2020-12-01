@@ -1,0 +1,67 @@
+---
+title: Postdoctoral Fellow, Broad Institute
+author: Assam
+date: '2020-11-30'
+slug: []
+categories: []
+tags: []
+description: ''
+keywords: []
+draft: no
+math: no
+toc: no
+---
+
+**Job Description:**
+
+Overview: The Karczewski Laboratory at the Broad Institute is seeking highly qualified postdoctoral candidates to perform genomics data science research across a spectrum of population genetics and disease association studies within the Stanley Center for Psychiatric Research and the Program in Medical and Population Genetics.
+
+Successful candidates are expected to excel at critical thinking, be quick learners for new analytical approaches, and capable of applying or developing novel computational methods for solving complex problems. Candidates must have a doctoral degree (PhD or MD), an excellent publication record, and great communication skills.
+
+A strong background in computer science and/or computational biology is required; and specifically, experience with analyzing high-dimensional datasets is preferred. Some fluency with biology and/or genetics is ideal, as is the ability to adapt quickly to a cross-functional team in a rapidly changing environment.
+
+The Stanley Center and the Broad Institute provide a vibrant research environment with close links to MIT, Harvard, and the Harvard-affiliated hospitals across Boston. Being a member of our team will provide the opportunity for your contributions to be utilized and recognized across the vast global network of researchers in the fields of genomics and human disease research.
+Environment/Lab Culture: The Karczewski Lab is a new lab in the Analytic and Translational Genetics Unit, which is comprised of an interdisciplinary group of postdoctoral fellows, scientists, bioinformaticians, computational biologists, and graduate students who work together in a mutually supportive and respectful environment. A postdoctoral fellow in this position will be embedded in this new small lab with highly personalized mentoring, but also have access to the range of expertise within the unit, including Ben Neale, Alicia Martin, Hilary Finucane, and Mark Daly, and their respective groups.
+
+Postdocs will have the opportunity to help shape the lab culture, where ideas are freely shared, and contributions are highly valued. We are dedicated to the interpretation of genomic variation and its contribution to human disease, with a focus on extracting biological information from terabyte-scale datasets of natural genetic variation and genotype-phenotype association data.
+
+**Dr. Karczewski** is a Group Leader at the Broad Institute with an affiliation at Massachusetts General Hospital. He places a high priority on mentoring postdoctoral trainees to work toward achieving their career paths and goals, and his lab (as well as the Broad in general) provides frequent and varied educational and skill-building opportunities. We are also an engaged member of the larger Broad community, and we maintain close ties with scientific communities at MIT- and Harvard-based institutions, and collaborators across the world. The Broad Institute itself is a vibrant research environment and provides the potential for your contributions to be used and recognized worldwide.
+
+
+**Who we are searching for:**
+
+We are seeking a highly motivated, creative, and talented postdoc to join our team. Candidates would direct collaborative research initiatives seeking to assess the phenotypic impact of genetic variation. Highly qualified candidates would oversee one or more of the following studies: (1) analyses related to the aggregation of datasets across global populations (e.g. the genome aggregation database [gnomAD]) to investigate how population genetics forces shape the phenotypic impact of variation; (2) the intersection of these datasets with genome-wide association study data from large biobanks, such as the FinnGen and UK Biobanks.
+As a member of this team, you will collaborate with other scientists, postdoctoral fellows, and PIs in a collegial work environment with intellectual rigor. Indeed, our collective brainpower and creativity––our best asset––creates an excellent environment for deep innovation, out-of-the-box thinking, and creative problem solving. We will teach you what you do not yet know through mentoring, peer support, and many educational opportunities. Being a member of our initiative will provide the opportunity for your contributions to be used and recognized across the vast global network of researchers in the fields of genomics and neurology.
+The successful candidate will bring strong computational and statistical skills to the genomics field and be enthusiastic about learning on the job. In return, you will develop many core competencies useful to all post-Postdoctoral career choices, including: (i) acquiring discipline-specific conceptual knowledge, (ii) further development of research skills, (iii) communication skills (e.g., writing, speaking, teaching, mentoring), (iv) professionalism, (v) leadership and management skills, and (vi) further training in responsible conduct of research (RCR). Come and bring your energy, intellectual curiosity, and computational skills/talents to this world-class dynamic team!
+Characteristic Duties:
+·       Analyze datasets from a wide variety of genetics experiments including but not limited to whole genome and exome sequencing and genotype-phenotype association studies.
+·       Develop methods and algorithms to approach novel problems in computational biology.
+·       Create scientifically rigorous visualizations, communications, and presentations of results.
+·       Contribute to generation of publications.
+·       Maintain and organize computational pipelines, infrastructure, and resources.
+·       Present results to a variety of audiences, including non-computational staff. 
+·       Prepare written reports and presentations for internal use and for publication, grants, and conferences.
+·       Opportunity to hone teaching and mentoring skills by overseeing junior team members.
+
+**Requirements:**
+·       Doctorate in human genetics, quantitative genetics, computational biology, bioinformatics, computer science, physics, or mathematics obtained within the last five years. 
+·       Fast learner, analytical thinker, creative, "hands-on", team-player.
+·       Submitted first-author or joint first-author papers in any of the project relevant fields. 
+·       Demonstrated proficiency in Python. 
+·       Experience in working in HPC and/or cloud-based environment.
+·       Demonstrated experience in medical oriented research and/or biology.
+·       Motivation to translate the developed research into publications.
+·       Strong communication skills.
+Not required, but preferred qualifications:
+·       First-author papers published in peer-reviewed journals or a preprint archive.
+·       Skilled with data science tools, including Hail or R (tidyverse).
+·       Experience with functional programming.
+·       Experience programming an additional language (Perl, Unix, Java, C, and C++). 
+·       Background in machine learning or biology is a plus.
+Keywords: Genomics, Computational biology, Statistics, Data science
+
+Hashtags: #interdisciplinary #collaborate #genomics #datascience #StanleyCenter #BroadInstitute #MPG #MGH
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+
+[APPLY](https://broadinstitute.wd1.myworkdayjobs.com/en-US/broad_institute/job/Cambridge-MA/Postdoctoral-Fellow---Karczewski-Lab_2945/apply)
