@@ -10,7 +10,7 @@ tags:
   - job
 description: ''
 keywords: []
-draft: yes
+draft: no
 math: no
 toc: no
 ---
@@ -53,5 +53,8 @@ In India, there are national level, postdoc fellowships you can apply and look f
 
 Preety much that's it. you can mail me if you need some help. you can follow me in my [twitter](https://twitter.com/ConfusedPostdoc),I frequently shares the post doc positon which are avialble especially in microbiology and agricultural field.
 
+<<<<<<< HEAD
 ---
 
+=======
+>>>>>>> 37def7343763f4efd54c55303f11c5b32f4af73f
