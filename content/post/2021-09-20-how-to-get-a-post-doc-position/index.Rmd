@@ -1,6 +1,6 @@
 ---
 title: How to get a post-doc position?
-author: Simon Urbanek
+author: Saurav
 date: '2021-09-20'
 slug: []
 categories:
@@ -10,9 +10,7 @@ tags:
   - job
 description: ''
 keywords: []
-draft: no
-math: no
-toc: no
+draft: yes
 ---
 Lot of people asked me the question,
 <b>How to get postdoc position ?</b>
@@ -51,10 +49,6 @@ In India, there are national level, postdoc fellowships you can apply and look f
 <li> then end your letter, thats it. Dont stretch it too much. Its always better to attach your CV with your cover letter and two or three of your best paper with the letter as attachment, which will describe your current field and writing efficiency. As for postdoc, communication and writing efficiency is really important. At the same time paper will aslo describe your scientific proficiency. </li>
 
 
-Preety much that's it. you can mail me if you need some help. you can follow me in my [twitter](https://twitter.com/ConfusedPostdoc),I frequently shares the post doc positon which are avialble especially in microbiology and agricultural field.
-
-<<<<<<< HEAD
----
+Preety much that's it. you can mail me if you need some help. you can follow me in my [twitter](https://twitter.com/ConfusedPostdoc),I frequently shares the post doc position which are available especially in microbiology and agricultural field.
 
 =======
->>>>>>> 37def7343763f4efd54c55303f11c5b32f4af73f
