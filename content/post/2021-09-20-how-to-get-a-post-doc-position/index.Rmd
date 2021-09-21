@@ -9,7 +9,7 @@ tags:
 - job
 description: ''
 keywords: []
-draft: yes
+draft: no
 ---
 Lot of people asked me the question,
 **How to get postdoc position ?**
